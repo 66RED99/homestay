@@ -1698,3 +1698,7 @@ input, select, textarea {
 		body {
 			background: #eee
 		}
+
+.card {
+    width: auto;
+}
